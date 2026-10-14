@@ -23,7 +23,7 @@ html {
 	}
 }
 
-.gamebutton {
+.gamebutton, ul{
 	border: none;
 	background: #ddd;
 	color: #333;
@@ -32,3 +32,4 @@ html {
 	font-family: monospace;
 	cursor: pointer;
 }
+
